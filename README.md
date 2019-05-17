@@ -4,4 +4,4 @@ A simple HTML Email Project to advertise Flexa Gym Grips for a client. It echoes
 
 ## Additional Info
 
-It is fully responsive and tested on Litmus for the majoirity of email clients.
+It is fully responsive and tested on Litmus for the majority of email clients.
