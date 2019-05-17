@@ -1,6 +1,6 @@
 # Email Project 
  
-A simple HTML Email Peroject to advertise Flexa Gym Grips for a client. It echoes the website designed and developed around the grips.
+A simple HTML Email Project to advertise Flexa Gym Grips for a client. It echoes the website designed and developed around the grips.
 
 ## Additional Info
 
